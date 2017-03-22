@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SPMultiZipDownload" Description="Add ability download multiple files from libs" Id="81822996-9cc5-4ad2-ac03-dc1780d53c04" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="MultiZipDownloadCustomAction\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fdabf125-c3d6-43be-8f31-95a85430834c" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Ionic.Zip.Reduced.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="SPMultiZipDownload.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SPMultiZipDownload\SPMultiZipDownload.aspx" />
+    <TemplateFile Location="Layouts\SPMultiZipDownload\SPMultiZipDownloadListSettings.aspx" />
+    <TemplateFile Location="Images\SPMultiZipDownload\SPMultiZipDownload_16x16.png" />
+    <TemplateFile Location="Images\SPMultiZipDownload\SPMultiZipDownload_32x32.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SPMultiZipDownload_Web\Feature.xml" />
+  </FeatureManifests>
+</Solution>

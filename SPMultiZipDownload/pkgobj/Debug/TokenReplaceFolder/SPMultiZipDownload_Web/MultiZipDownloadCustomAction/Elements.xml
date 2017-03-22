@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="SPMultiZipDownloadListSettingsAction"
+    RegistrationType="List"
+    RegistrationId="101"
+    GroupId="GeneralSettings"
+    RequireSiteAdministrator="TRUE"
+    Location="Microsoft.SharePoint.ListEdit.DocumentLibrary"
+    Title="Enable multi downloads as ZIP"
+    Sequence="200">
+    <UrlAction Url="_layouts/SPMultiZipDownload/SPMultiZipDownloadListSettings.aspx?ListId={ListId}"/>
+  </CustomAction>
+</Elements>

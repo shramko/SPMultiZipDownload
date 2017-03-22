@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\SPMultiZipDownload\SPMultiZipDownload\bin\Debug\SPMultiZipDownload.dll
+C:\Users\Administrator\Documents\GitHub\SPMultiZipDownload\SPMultiZipDownload\bin\Debug\SPMultiZipDownload.pdb
+C:\Users\Administrator\Documents\GitHub\SPMultiZipDownload\SPMultiZipDownload\obj\Debug\SPMultiZipDownload.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\SPMultiZipDownload\SPMultiZipDownload\obj\Debug\SPMultiZipDownload.dll
+C:\Users\Administrator\Documents\GitHub\SPMultiZipDownload\SPMultiZipDownload\obj\Debug\SPMultiZipDownload.pdb
+C:\Users\Administrator\Documents\GitHub\SPMultiZipDownload\SPMultiZipDownload\bin\Debug\Ionic.Zip.Reduced.dll

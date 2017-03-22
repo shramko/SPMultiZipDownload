@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="fdabf125-c3d6-43be-8f31-95a85430834c" solutionId="fdabf125-c3d6-43be-8f31-95a85430834c" resetWebServer="false" sharePointProductVersion="15.0" name="SPMultiZipDownload" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="Ionic.Zip.Reduced.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\packages\DotNetZip.Reduced.1.9.1.8\lib\net20\Ionic.Zip.Reduced.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="f81f2ebf-c180-428f-9a99-41e398bc9a2d" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="7233e45f-d7e7-4a0e-a54e-2b2a01e75469" />
+    <projectItemReference itemId="7c17b14d-1ab2-4452-825e-57232902935a" />
+  </projectItems>
+</package>
